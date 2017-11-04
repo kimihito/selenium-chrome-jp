@@ -1,4 +1,4 @@
-FROM selenium/standalone-chrome:3.6.0-copper
+FROM selenium/standalone-chrome:3.7.0-arsenic
 USER root
 
 # install japanese font
